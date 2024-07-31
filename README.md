@@ -1,2 +1,2 @@
 # Devops-jenkins
-welcome to jenkins to webhook configuration
+welcome to jenkins to webhook configurations
